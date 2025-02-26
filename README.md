@@ -8,7 +8,7 @@
 This is the official implementation of DyMO, introduced in [Training-Free Diffusion Model Alignment with Dynamic Multi-Objective Scheduling](https://arxiv.org/abs/2412.00759).
 
 ## TODO
-Release the inference code of DyMO (Coming soon).
+Release the inference code of DyMO (Coming soon/Almost there🤓).
 
 ## Abstract
 <p>

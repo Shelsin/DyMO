@@ -8,7 +8,7 @@
 This is the official implementation of DyMO, introduced in [Training-Free Diffusion Model Alignment with Dynamic Multi-Objective Scheduling](https://arxiv.org/abs/2412.00759).
 
 ## TODO
-Release the inference code of DyMO (Coming soon/Almost there🤓).
+- [x] Release the inference code of DyMO (Coming soon/Almost there🤓).
 
 ## Abstract
 <p>
@@ -26,6 +26,18 @@ Experiments with diverse pre-trained diffusion models and metrics demonstrate th
 
 ## :unlock: Available Checkpoints
 [Step-Aware_Preference_Models](https://huggingface.co/SPO-Diffusion-Models/Step-Aware_Preference_Models)
+
+## :wrench: Inference
+
+SD v1.5 inference
+```bash
+python inference_sd15_dymo.py
+```
+
+SDXL inference
+```bash
+python inference_sdxl_dymo.py
+```
 
 ## Acknowledgement
 Our codebase references the code from [Diffusers](https://github.com/huggingface/diffusers), [SPO](https://rockeycoss.github.io/spo.github.io/) and [PickScore](https://github.com/yuvalkirstain/PickScore). We extend our gratitude to their authors for open-sourcing their code.

@@ -1,0 +1,10 @@
+{
+  "prompt": "Full Portrait of Consort Chunhui by Giuseppe Castiglione, symmetrical face, ancient Chinese painting, single face, insanely detailed and intricate, beautiful, elegant, artstation, character concept in the style illustration by Miho Hirano, Giuseppe Castiglione –ar 9:16",
+  "knowledge": [
+    {"portrait": ["full", "consort", "chunhui", "giuseppe", "castiglione"]},
+    {"face": ["symmetrical", "single", "detailed", "intricate", "beautiful", "elegant"]}
+  ],
+  "global": [
+    {"style": ["ancient", "chinese", "painting", "artstation", "miho", "hirano", "illustration"]}
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "prompt": "A swirling, multicolored portal emerges from the depths of an ocean of coffee, with waves of the rich liquid gently rippling outward. The portal engulfs a coffee cup, which serves as a gateway to a fantastical dimension. The surrounding digital art landscape reflects the colors of the portal, creating an alluring scene of endless possibilities.",
+  "knowledge": [
+    {"portal": ["swirling", "multicolored", "emerges"]},
+    {"ocean": ["depths", "coffee", "rich"]},
+    {"waves": ["rippling", "gently", "outward"]},
+    {"cup": ["coffee", "gateway"]}
+  ],
+  "global": [
+    {"style": ["digital", "art", "landscape", "alluring", "fantastical"]}
+  ]
+}

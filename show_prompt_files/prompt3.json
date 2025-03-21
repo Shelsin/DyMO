@@ -1,0 +1,9 @@
+{
+  "prompt": "a photo of a frog holding an apple while smiling in the forest",
+  "knowledge": [
+    {"frog": ["holding"]},
+    {"apple": []},
+    {"forest": []}
+  ],
+  "global": []
+}

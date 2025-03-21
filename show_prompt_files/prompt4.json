@@ -1,0 +1,9 @@
+{
+  "prompt": "a gopro snapshot of an anthropomorphic cat dressed as a firefighter putting out a building fire",
+  "knowledge": [
+    {"cat": ["anthropomorphic"]},
+    {"firefighter": ["dressed"]},
+    {"fire": ["building"]}
+  ],
+  "global": [{"style": ["gopro", "snapshot"]}]
+}

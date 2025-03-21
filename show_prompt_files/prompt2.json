@@ -1,0 +1,13 @@
+{
+  "prompt": "little tiny cub beautiful light color White fox soft fur kawaii chibi Walt Disney style, beautiful smiley face and beautiful eyes sweet and smiling features, snuggled in its soft and soft pastel pink cover, magical light background, style Thomas kinkade Nadja Baxter Anne Stokes Nancy Noel realistic",
+  "knowledge":[
+    {"fox": ["little", "tiny", "cub", "beautiful", "light", "color", "White", "soft", "fur", "sweet", "smiling"]},
+    {"face": ["beautiful", "smiley"]},
+    {"eyes": ["beautiful"]},
+    {"cover": ["soft", "pastel", "pink"]},
+    {"background": ["magical", "light"]}
+  ],
+  "global": [
+    {"style":["kawaii", "chibi", "Walt", "Disney", "style", "Thomas", "kinkade", "Nadja", "Baxter", "Anne", "Stokes", "Nancy", "Noel", "realistic"]}
+  ]
+}

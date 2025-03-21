@@ -1,0 +1,10 @@
+{
+  "prompt": "a white polar bear cub wearing sunglasses sits in a meadow with flowers.",
+  "knowledge": [
+    {"bear": ["white", "cub"]},
+    {"sunglasses": []},
+    {"meadow": []},
+    {"flowers": []}
+  ],
+  "global": []
+}

@@ -24,15 +24,21 @@ Experiments with diverse pre-trained diffusion models and metrics demonstrate th
 ## Method Overview
 ![method_overview](assets/method.png)
 
+## :unlock: Available Checkpoints
+[Step-Aware_Preference_Models](https://huggingface.co/SPO-Diffusion-Models/Step-Aware_Preference_Models)
+
+## Acknowledgement
+Our codebase references the code from [Diffusers](https://github.com/huggingface/diffusers), [SPO](https://rockeycoss.github.io/spo.github.io/) and [PickScore](https://github.com/yuvalkirstain/PickScore). We extend our gratitude to their authors for open-sourcing their code.
 
 ## :mailbox_with_mail: Citation
 If you find this code useful in your research, please consider citing:
 
 ```
-@article{xin2024dymo,
-  title={DyMO: Training-Free Diffusion Model Alignment with Dynamic Multi-Objective Scheduling},
-  author={Xie, Xin and Gong, Dong},
-  journal={arXiv preprint arXiv:2412.00759},
-  year={2024}
+@InProceedings{xin2024dymo,
+    author={Xie, Xin and Gong, Dong},
+    title={DyMO: Training-Free Diffusion Model Alignment with Dynamic Multi-Objective Scheduling},
+    booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month={June},
+    year={2025}
 }
 ```

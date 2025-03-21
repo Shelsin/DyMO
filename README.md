@@ -27,6 +27,8 @@ Experiments with diverse pre-trained diffusion models and metrics demonstrate th
 ## :unlock: Available Checkpoints
 [Step-Aware_Preference_Models](https://huggingface.co/SPO-Diffusion-Models/Step-Aware_Preference_Models)
 
+Download the model "sd-v1-5_step-aware_preference_model.bin" and "sdxl_step-aware_preference_model.bin" first, and then duplicate them to the "model_ckpts" file.
+
 ## :wrench: Inference
 
 SD v1.5 inference
@@ -46,7 +48,7 @@ Our codebase references the code from [Diffusers](https://github.com/huggingface
 If you find this code useful in your research, please consider citing:
 
 ```
-@InProceedings{xin2024dymo,
+@InProceedings{xin2025dymo,
     author={Xie, Xin and Gong, Dong},
     title={DyMO: Training-Free Diffusion Model Alignment with Dynamic Multi-Objective Scheduling},
     booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},

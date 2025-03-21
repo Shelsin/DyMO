@@ -41,7 +41,7 @@ SDXL inference
 python inference_sdxl_dymo.py
 ```
 
-## Acknowledgement
+## :rocket: Acknowledgement
 Our codebase references the code from [Diffusers](https://github.com/huggingface/diffusers), [SPO](https://rockeycoss.github.io/spo.github.io/) and [PickScore](https://github.com/yuvalkirstain/PickScore). We extend our gratitude to their authors for open-sourcing their code.
 
 ## :mailbox_with_mail: Citation

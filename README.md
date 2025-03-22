@@ -24,6 +24,10 @@ Experiments with diverse pre-trained diffusion models and metrics demonstrate th
 ## Method Overview
 ![method_overview](assets/method.png)
 
+## Gallery
+![Compare of SD V1.5-based models](assets/compare_sd15.png)
+![Compare of SD XL-based models](assets/compare_sdxl.png)
+
 ## :unlock: Available Checkpoints
 [Step-Aware_Preference_Models](https://huggingface.co/SPO-Diffusion-Models/Step-Aware_Preference_Models)
 
